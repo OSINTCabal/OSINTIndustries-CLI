@@ -18,3 +18,12 @@ Built with:
 - 🧠 Intelligent nested JSON formatter
 - 💾 Optional JSON result export
 - 🔐 Secure API key input at runtime (GitHub-safe)
+
+
+
+## 📦 Installation
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/OSINTCabal/OSINTCabal-OSINT-Industries-CLI.git
+cd OSINTCabal-OSINT-Industries-CLI
